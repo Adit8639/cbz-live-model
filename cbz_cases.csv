@@ -1,0 +1,351 @@
+App,CT,Prod,Ind,Zone,Term,Amt,Reason,Cat,Side
+58,32,Loan,Construction,South,36,536.0,Confirmation on loan amount,Scope or amount change,Client
+211,31,Lease,Utilites,Central,60,148.0,Scope Change,Scope or amount change,Client
+280,31,Loan,Construction,West,48,232.0,We had quality concerns that came up during spot checks. We had to add an additional round of review for all document.,Internal quality and extra reviews,Bank
+301,31,Loan,Vehicles,West,60,415.0,We were waiting on a few components from  the client. ,Client documents late,Client
+12,30,Loan,Construction,West,48,147.0,We were waiting on a few components from  the client. ,Client documents late,Client
+25,30,Loan,Vehicles,West,48,167.0,We were waiting on a few components from  the client. ,Client documents late,Client
+26,30,Lease,Vehicles,North,60,87.0,Unplanned Leaves,Staff / approver unavailable,Bank
+27,30,Loan,Vehicles,West,48,167.0,Client Rework,Client rework / errors,Client
+28,30,Lease,Vehicles,North,60,87.0,Error in documents provided by client caused rework,Client rework / errors,Client
+246,30,Loan,Vehicles,Central,36,1232.0,,,
+239,29,Loan,Utilites,Central,60,640.0,Delay from the client in sending the files,Client documents late,Client
+243,29,Lease,Utilites,North,60,229.0,Platform Issues/Quality Issues,Platform / system issues,Bank
+244,29,Loan,Manufacturing,West,48,351.5,Delay due to client feedback,Client feedback and queries,Client
+291,29,Lease,Vehicles,West,60,612.0,We were waiting on a few components from  the client. ,Client documents late,Client
+185,28,Loan,Vehicles,North,60,1345.0,Delay due to client feedback,Client feedback and queries,Client
+305,28,Lease,Manufacturing,North,60,73.0,Delay from the client in sending the files,Client documents late,Client
+343,28,Loan,Construction,Central,60,224.0,Delay from the client in sending the files,Client documents late,Client
+22,27,Loan,Vehicles,South,48,1100.0,Delay due to client feedback,Client feedback and queries,Client
+209,27,Loan,Vehicles,Central,24,106.0,Delay due to client feedback,Client feedback and queries,Client
+267,27,Loan,Utilites,West,84,280.0,Delay due to client feedback,Client feedback and queries,Client
+293,27,Lease,Manufacturing,Central,60,201.0,Platform Issues,Platform / system issues,Bank
+330,27,Loan,Manufacturing,North,60,110.0,Additional Reviews,Internal quality and extra reviews,Bank
+48,26,Loan,Manufacturing,South,48,1000.0,Additional Reviews,Internal quality and extra reviews,Bank
+210,26,Loan,Vehicles,Central,60,150.0,Finalizing the loan amount took an additional day's time.,Scope or amount change,Client
+319,26,Loan,Construction,West,36,241.0,Delay from the client in sending the files,Client documents late,Client
+35,25,Loan,Manufacturing,West,48,600.0,Additional Reviews,Internal quality and extra reviews,Bank
+38,25,Lease,Service,East,54,100.0,Additional Reviews,Internal quality and extra reviews,Bank
+47,25,Loan,Manufacturing,South,36,1200.0,We had quality concerns that came up during spot checks. We had to add an additional round of review for all document.,Internal quality and extra reviews,Bank
+86,25,Loan,Construction,West,48,460.0,We had quality concerns that came up during spot checks. We had to add an additional round of review for all document.,Internal quality and extra reviews,Bank
+107,25,Loan,Service,West,36,150.0,There was a delay in getting the required document from the client.,Client documents late,Client
+135,25,Loan,Manufacturing,Central,84,1275.0,There was a delay in getting the required document from the client.,Client documents late,Client
+189,25,Lease,Vehicles,North,36,90.0,"Prioritization of another project, Client approved a late submission to prioritize another title",Client deprioritised,Client
+289,25,Lease,Construction,North,48,81.0,"Prioritization of another project, Client approved a late submission to prioritize another title",Client deprioritised,Client
+311,25,Loan,Construction,West,24,201.0,"Prioritization of another project, Client approved a late submission to prioritize another title",Client deprioritised,Client
+7,24,Loan,Manufacturing,West,72,600.0,Approver was on sick leave,Staff / approver unavailable,Bank
+284,24,Loan,Vehicles,South,36,380.0,Approver was on sick leave,Staff / approver unavailable,Bank
+290,24,Loan,Service,Central,36,516.0,Scope Change,Scope or amount change,Client
+333,24,Loan,Service,North,36,105.0,Quality Issues,Internal quality and extra reviews,Bank
+13,23,Lease,Construction,East,60,1302.0,Team took time to understand the forms,Planning and productivity,Bank
+50,23,Loan,Service,North,36,107.0,We had one reviewer instead of two reviewers,Staff / approver unavailable,Bank
+183,23,Loan,Utilites,East,36,225.0,We had one reviewer instead of two reviewers,Staff / approver unavailable,Bank
+266,23,Loan,Construction,South,48,500.0,We had one reviewer instead of two reviewers,Staff / approver unavailable,Bank
+349,23,Loan,Manufacturing,West,60,151.0,We had one reviewer instead of two reviewers,Staff / approver unavailable,Bank
+128,22,Loan,Service,North,60,1100.0,Client Rework,Client rework / errors,Client
+247,22,Loan,Manufacturing,West,60,1000.0,Client Rework,Client rework / errors,Client
+252,22,Loan,Manufacturing,West,48,789.0,Delay due to client feedback,Client feedback and queries,Client
+54,21,Loan,Manufacturing,West,36,433.5,Delay due to client feedback,Client feedback and queries,Client
+108,21,Loan,Service,Central,48,1150.0,Increase in Scope,Scope or amount change,Client
+118,21,Loan,Service,West,48,127.0,Time taken was more than planned,Planning and productivity,Bank
+169,21,Lease,Vehicles,North,60,59.0,Delay because of internal rework ,Internal quality and extra reviews,Bank
+182,21,Lease,Manufacturing,Central,34,50.0,Quality issues,Internal quality and extra reviews,Bank
+184,21,Loan,Manufacturing,West,48,356.5,Quality issues,Internal quality and extra reviews,Bank
+188,21,Loan,Service,Central,42,599.0,Delay from the client in sending the files,Client documents late,Client
+196,21,Loan,Vehicles,Central,42,240.0,Delay from the client in sending the files,Client documents late,Client
+197,21,Loan,Service,North,24,205.0,Delay due to client feedback,Client feedback and queries,Client
+225,21,Lease,Manufacturing,North,48,101.0,There was scope change from the client’s end.,Scope or amount change,Client
+253,21,Lease,Manufacturing,West,84,34.0,Time taken was more than planned,Planning and productivity,Bank
+259,21,Loan,Construction,Central,36,109.0,Time taken was more than planned,Planning and productivity,Bank
+261,21,Lease,Service,North,60,750.0,Resource lag,Staff / approver unavailable,Bank
+346,21,Loan,Construction,West,36,140.0,Resource lag,Staff / approver unavailable,Bank
+51,20,Loan,Manufacturing,West,60,212.5,Delay from the client in sending the files,Client documents late,Client
+109,20,Loan,Vehicles,West,36,284.0,Query Resolution,Client feedback and queries,Client
+218,20,Loan,Vehicles,Central,48,216.0,Quality issues,Internal quality and extra reviews,Bank
+242,20,Lease,Vehicles,Central,42,131.0,Change in Scope,Scope or amount change,Client
+254,20,Lease,Manufacturing,North,84,74.0,Increase in Scope,Scope or amount change,Client
+112,19,Loan,Construction,West,36,146.0,Increase in Scope,Scope or amount change,Client
+129,19,Loan,Construction,North,42,114.0,Increase in Scope,Scope or amount change,Client
+134,19,Lease,Vehicles,North,42,57.0,Platform Issues/ Technical issue,Platform / system issues,Bank
+198,19,Lease,Manufacturing,East,48,71.0,Platform Issues/ Technical issue,Platform / system issues,Bank
+199,19,Lease,Manufacturing,East,48,89.0,Platform Issues/ Technical issue,Platform / system issues,Bank
+248,19,Loan,Vehicles,West,36,300.0,Low Productivity,Planning and productivity,Bank
+255,19,Loan,Manufacturing,West,84,119.0,Low Productivity,Planning and productivity,Bank
+294,19,Loan,Vehicles,West,60,301.0,Low Productivity,Planning and productivity,Bank
+309,19,Lease,Vehicles,North,60,80.0,Approval took longer than usual,Staff / approver unavailable,Bank
+312,19,Loan,Manufacturing,East,63,1000.0,Client Rework,Client rework / errors,Client
+322,19,Loan,Utilites,West,48,2100.0,Client Rework,Client rework / errors,Client
+332,19,Loan,Service,North,60,267.0,Delay from the client in sending the files,Client documents late,Client
+103,18,Loan,Manufacturing,South,48,800.0,Quality and productivity issues,Internal quality and extra reviews,Bank
+117,18,Lease,Construction,South,48,69.0,Quality and productivity issues,Internal quality and extra reviews,Bank
+146,18,Loan,Vehicles,Central,60,229.0,Quality and productivity issues,Internal quality and extra reviews,Bank
+177,18,Lease,Vehicles,Central,60,71.0,Quality and productivity issues,Internal quality and extra reviews,Bank
+181,18,Lease,Manufacturing,Central,34,50.0,Quality and productivity issues,Internal quality and extra reviews,Bank
+226,18,Loan,Service,North,60,1200.0,Quality issues,Internal quality and extra reviews,Bank
+260,18,Loan,Manufacturing,Central,84,653.0,Quality issues,Internal quality and extra reviews,Bank
+300,18,Lease,Vehicles,North,48,64.0,Client Rework,Client rework / errors,Client
+308,18,Loan,Utilites,Central,48,110.0,Client Rework,Client rework / errors,Client
+323,18,Loan,Manufacturing,North,60,111.0,Client Rework,Client rework / errors,Client
+331,18,Loan,Service,Central,36,165.0,Client Rework,Client rework / errors,Client
+335,18,Loan,Service,West,36,234.0,Client Rework,Client rework / errors,Client
+338,18,Loan,Utilites,North,60,317.0,Delay in internal research,Planning and productivity,Bank
+59,17,Lease,Construction,South,36,100.0,Delay in receiving clarification for queries from client.,Client feedback and queries,Client
+180,17,Lease,Manufacturing,Central,34,50.0,The scope was increased as we received the feedback. ,Scope or amount change,Client
+222,17,Loan,Utilites,East,48,185.0,"Query Resolution, Client took time to resolve  queries",Client feedback and queries,Client
+224,17,Loan,Manufacturing,West,84,1200.0,Delay from the client in sending the files,Client documents late,Client
+258,17,Loan,Construction,Central,49,125.0,Delay from the client in sending the files,Client documents late,Client
+271,17,Loan,Construction,West,42,1126.0,Delay from the client in sending the files,Client documents late,Client
+299,17,Loan,Service,Central,59,133.0,Delay from the client in sending the files,Client documents late,Client
+318,17,Loan,Utilites,East,36,2000.0,"Deliverable was ready, Missed submission",Ready but not submitted,Bank
+328,17,Loan,Utilites,Central,60,107.0,"Deliverable was ready, Missed submission",Ready but not submitted,Bank
+341,17,Loan,Vehicles,East,36,490.0,Time taken was more than planned,Planning and productivity,Bank
+347,17,Loan,Manufacturing,West,36,236.0,Time taken was more than planned,Planning and productivity,Bank
+350,17,Lease,Manufacturing,West,84,402.0,Approver was on sick leave,Staff / approver unavailable,Bank
+49,16,Loan,Manufacturing,Central,42,500.0,Approver was on sick leave,Staff / approver unavailable,Bank
+68,16,Lease,Construction,East,78,1458.0,Incorrect Effort Estimation,Planning and productivity,Bank
+162,16,Loan,Manufacturing,Central,48,220.0,Delay because of unexpected emergency leaves,Staff / approver unavailable,Bank
+236,16,Lease,Vehicles,Central,36,275.5,Scope Change,Scope or amount change,Client
+283,16,Lease,Vehicles,Central,72,381.0,Scope Change,Scope or amount change,Client
+320,16,Loan,Construction,South,36,126.0,Delay from the client in sending the files,Client documents late,Client
+327,16,Lease,Service,Central,60,57.0,Platform lag,Platform / system issues,Bank
+339,16,Lease,Vehicles,South,48,101.0,There was scope change from the client’s end.,Scope or amount change,Client
+340,16,Lease,Vehicles,North,48,101.0,"Query Resolution, Client took time to resolve  queries",Client feedback and queries,Client
+348,16,Loan,Manufacturing,West,36,852.0,"Query Resolution, Client took time to resolve  queries",Client feedback and queries,Client
+60,15,Loan,Manufacturing,West,56,422.0,,,
+99,15,Loan,Manufacturing,West,36,151.0,,,
+100,15,Loan,Manufacturing,West,36,150.0,,,
+156,15,Lease,Vehicles,Central,60,202.0,,,
+176,15,Lease,Construction,Central,60,131.0,,,
+206,15,Loan,Manufacturing,West,60,589.0,,,
+219,15,Loan,Vehicles,East,36,282.0,,,
+223,15,Loan,Vehicles,North,60,1222.0,,,
+277,15,Loan,Service,West,43,223.0,,,
+296,15,Lease,Construction,North,36,103.0,,,
+43,14,Loan,Manufacturing,East,60,124.0,,,
+87,14,Loan,Vehicles,West,58,214.5,,,
+144,14,Lease,Construction,South,36,42.0,,,
+179,14,Lease,Construction,South,48,100.0,,,
+205,14,Loan,Manufacturing,West,36,350.0,,,
+233,14,Loan,Utilites,East,36,600.0,,,
+249,14,Loan,Construction,West,48,480.5,,,
+272,14,Loan,Construction,East,60,800.0,,,
+295,14,Lease,Service,North,72,461.0,,,
+302,14,Lease,Manufacturing,North,48,75.0,,,
+321,14,Loan,Service,North,48,110.0,,,
+324,14,Loan,Manufacturing,North,61,1250.0,,,
+3,13,Loan,Utilites,West,48,251.0,,,
+69,13,Lease,Vehicles,North,60,91.0,,,
+70,13,Lease,Vehicles,West,60,46.0,,,
+71,13,Lease,Vehicles,West,60,45.5,,,
+105,13,Lease,Utilites,West,60,279.0,,,
+119,13,Lease,Vehicles,West,36,146.0,,,
+120,13,Lease,Vehicles,West,36,218.0,,,
+136,13,Loan,Vehicles,West,60,173.0,,,
+137,13,Loan,Vehicles,West,60,180.0,,,
+140,13,Loan,Utilites,East,60,145.0,,,
+143,13,Loan,Utilites,Central,48,388.0,,,
+158,13,Loan,Manufacturing,West,48,280.5,,,
+172,13,Loan,Manufacturing,West,60,395.0,,,
+173,13,Loan,Manufacturing,West,60,208.0,,,
+174,13,Loan,Manufacturing,West,60,138.0,,,
+200,13,Loan,Service,East,60,180.0,,,
+201,13,Loan,Service,East,60,420.0,,,
+202,13,Lease,Manufacturing,North,36,81.0,,,
+207,13,Lease,Construction,South,48,81.0,,,
+228,13,Loan,Utilites,East,60,500.0,,,
+250,13,Loan,Construction,South,60,1675.0,,,
+281,13,Loan,Construction,East,60,302.0,,,
+29,12,Loan,Vehicles,South,60,1178.0,,,
+30,12,Loan,Vehicles,South,60,887.0,,,
+74,12,Loan,Vehicles,North,36,114.0,,,
+75,12,Lease,Manufacturing,North,60,75.0,,,
+125,12,Lease,Vehicles,Central,60,383.0,,,
+127,12,Loan,Service,North,36,1071.0,,,
+159,12,Loan,Vehicles,Central,48,1800.0,,,
+160,12,Loan,Construction,West,42,686.0,,,
+170,12,Loan,Manufacturing,Central,60,200.0,,,
+190,12,Loan,Service,North,48,1400.0,,,
+203,12,Lease,Utilites,North,60,602.0,,,
+212,12,Loan,Manufacturing,East,60,543.0,,,
+220,12,Lease,Manufacturing,South,60,80.0,,,
+227,12,Loan,Manufacturing,East,42,317.0,,,
+268,12,Loan,Manufacturing,West,48,399.0,,,
+273,12,Loan,Service,East,48,385.0,,,
+304,12,Lease,Manufacturing,East,60,1456.0,,,
+313,12,Loan,Manufacturing,Central,48,386.0,,,
+329,12,Lease,Utilites,South,48,98.0,,,
+334,12,Loan,Service,West,36,291.0,,,
+1,11,Loan,Construction,Central,48,225.0,,,
+19,11,Loan,Manufacturing,East,60,475.0,,,
+20,11,Loan,Manufacturing,East,36,160.0,,,
+21,11,Lease,Vehicles,North,48,304.0,,,
+39,11,Loan,Construction,East,48,300.0,,,
+82,11,Loan,Vehicles,West,60,234.0,,,
+101,11,Lease,Vehicles,East,48,1000.0,,,
+102,11,Loan,Manufacturing,West,42,318.5,,,
+106,11,Loan,Utilites,East,60,276.0,,,
+133,11,Loan,Manufacturing,Central,60,175.0,,,
+164,11,Loan,Utilites,East,36,250.0,,,
+168,11,Lease,Vehicles,Central,36,76.0,,,
+171,11,Loan,Manufacturing,East,72,1400.0,,,
+229,11,Lease,Construction,West,60,147.0,,,
+269,11,Loan,Utilites,West,36,275.0,,,
+292,11,Loan,Manufacturing,East,48,328.0,,,
+307,11,Loan,Manufacturing,West,36,456.0,,,
+325,11,Lease,Service,North,37,460.0,,,
+40,10,Loan,Manufacturing,South,60,132.0,,,
+41,10,Loan,Manufacturing,South,60,368.0,,,
+55,10,Loan,Vehicles,West,36,170.5,,,
+63,10,Loan,Manufacturing,East,48,450.0,,,
+94,10,Lease,Manufacturing,Central,60,345.0,,,
+147,10,Loan,Service,South,48,575.0,,,
+186,10,Lease,Utilites,North,60,326.0,,,
+191,10,Lease,Vehicles,North,60,87.0,,,
+192,10,Loan,Vehicles,West,48,128.0,,,
+193,10,Loan,Vehicles,West,48,170.0,,,
+213,10,Loan,Manufacturing,East,60,360.0,,,
+214,10,Loan,Manufacturing,East,18,167.0,,,
+270,10,Loan,Service,North,28,110.0,,,
+285,10,Loan,Construction,Central,36,1600.0,,,
+336,10,Lease,Vehicles,West,36,44.5,,,
+342,10,Loan,Utilites,West,36,154.0,,,
+14,9,Loan,Manufacturing,West,60,361.0,,,
+64,9,Loan,Manufacturing,South,84,700.0,,,
+88,9,Loan,Construction,North,48,245.0,,,
+104,9,Loan,Vehicles,East,48,1300.0,,,
+113,9,Lease,Vehicles,West,60,113.0,,,
+114,9,Lease,Vehicles,West,60,152.0,,,
+130,9,Lease,Utilites,East,60,65.0,,,
+131,9,Loan,Utilites,East,60,235.0,,,
+157,9,Lease,Vehicles,South,48,84.0,,,
+194,9,Loan,Vehicles,South,60,234.0,,,
+208,9,Loan,Manufacturing,Central,60,175.0,,,
+215,9,Lease,Construction,East,48,32.0,,,
+216,9,Lease,Vehicles,South,36,42.0,,,
+232,9,Loan,Utilites,East,60,515.0,,,
+237,9,Loan,Manufacturing,East,36,250.0,,,
+265,9,Loan,Manufacturing,East,48,400.0,,,
+282,9,Loan,Manufacturing,East,60,737.0,,,
+286,9,Loan,Vehicles,East,60,245.0,,,
+287,9,Loan,Construction,South,18,226.0,,,
+297,9,Loan,Utilites,Central,36,460.0,,,
+303,9,Loan,Utilites,East,84,345.0,,,
+314,9,Loan,Manufacturing,West,48,200.0,,,
+15,8,Loan,Construction,East,18,124.0,,,
+36,8,Lease,Vehicles,Central,60,182.0,,,
+56,8,Lease,Vehicles,Central,48,214.0,,,
+57,8,Loan,Manufacturing,West,60,154.0,,,
+66,8,Lease,Vehicles,Central,60,276.0,,,
+89,8,Lease,Vehicles,Central,36,74.0,,,
+90,8,Lease,Vehicles,Central,60,136.0,,,
+91,8,Loan,Construction,West,48,250.0,,,
+95,8,Loan,Construction,South,48,288.0,,,
+98,8,Loan,Manufacturing,East,72,1236.0,,,
+111,8,Loan,Manufacturing,East,60,675.0,,,
+115,8,Loan,Utilites,East,60,135.0,,,
+221,8,Loan,Construction,East,36,145.0,,,
+262,8,Loan,Vehicles,West,72,197.5,,,
+263,8,Lease,Vehicles,West,72,43.0,,,
+274,8,Lease,Vehicles,West,60,205.0,,,
+278,8,Lease,Construction,West,42,25.0,,,
+279,8,Lease,Construction,West,42,77.0,,,
+306,8,Loan,Manufacturing,East,24,124.0,,,
+315,8,Loan,Construction,South,48,232.0,,,
+4,7,Loan,Construction,East,36,204.0,,,
+8,7,Lease,Construction,Central,66,344.0,,,
+11,7,Loan,Construction,East,48,496.0,,,
+31,7,Loan,Utilites,Central,48,350.0,,,
+34,7,Loan,Service,North,36,276.0,,,
+44,7,Loan,Manufacturing,East,24,500.0,,,
+52,7,Loan,Manufacturing,Central,36,150.0,,,
+76,7,Lease,Vehicles,West,60,329.0,,,
+122,7,Loan,Manufacturing,East,84,111.0,,,
+138,7,Loan,Utilites,East,60,650.0,,,
+141,7,Lease,Utilites,North,63,950.0,,,
+145,7,Loan,Utilites,East,48,327.0,,,
+148,7,Loan,Manufacturing,Central,49,125.0,,,
+163,7,Loan,Manufacturing,East,60,1234.0,,,
+178,7,Loan,Service,East,60,1235.0,,,
+217,7,Lease,Vehicles,North,60,446.0,,,
+234,7,Loan,Manufacturing,Central,48,450.0,,,
+235,7,Lease,Vehicles,North,60,425.0,,,
+238,7,Loan,Construction,East,60,300.0,,,
+240,7,Lease,Utilites,East,36,92.0,,,
+257,7,Loan,Manufacturing,East,36,168.0,,,
+264,7,Lease,Vehicles,South,48,250.0,,,
+275,7,Lease,Construction,East,36,87.0,,,
+10,6,Loan,Construction,Central,48,116.0,,,
+23,6,Loan,Vehicles,Central,48,165.0,,,
+32,6,Lease,Service,Central,48,48.0,,,
+45,6,Loan,Construction,Central,48,172.0,,,
+81,6,Loan,Vehicles,West,84,202.5,,,
+92,6,Loan,Construction,West,36,450.0,,,
+110,6,Loan,Manufacturing,West,48,120.0,,,
+116,6,Loan,Manufacturing,South,48,159.0,,,
+142,6,Loan,Vehicles,North,36,105.0,,,
+298,6,Lease,Construction,North,48,69.0,,,
+326,6,Loan,Vehicles,North,60,250.0,,,
+2,5,Loan,Service,East,54,150.0,,,
+5,5,Loan,Construction,East,60,475.0,,,
+6,5,Loan,Construction,Central,57,116.0,,,
+46,5,Loan,Vehicles,Central,60,331.0,,,
+65,5,Lease,Vehicles,East,36,50.0,,,
+72,5,Loan,Service,Central,84,180.0,,,
+80,5,Loan,Vehicles,North,60,118.0,,,
+93,5,Loan,Construction,West,36,130.0,,,
+126,5,Lease,Utilites,North,60,153.0,,,
+139,5,Loan,Utilites,East,48,200.0,,,
+165,5,Loan,Utilites,East,48,280.0,,,
+166,5,Loan,Vehicles,East,48,117.0,,,
+167,5,Loan,Utilites,East,60,750.0,,,
+175,5,Lease,Utilites,East,60,102.0,,,
+204,5,Loan,Construction,East,60,1234.0,,,
+230,5,Loan,Vehicles,Central,48,149.0,,,
+245,5,Lease,Vehicles,Central,60,584.0,,,
+251,5,Loan,Service,Central,60,563.0,,,
+276,5,Loan,Manufacturing,Central,36,224.0,,,
+310,5,Loan,Vehicles,East,48,222.0,,,
+316,5,Loan,Utilites,Central,48,156.0,,,
+317,5,Lease,Vehicles,South,36,27.0,,,
+344,5,Lease,Vehicles,Central,60,163.0,,,
+345,5,Lease,Manufacturing,East,60,65.0,,,
+17,4,Loan,Construction,South,48,450.0,,,
+18,4,Loan,Construction,South,60,553.0,,,
+24,4,Lease,Vehicles,North,60,90.0,,,
+37,4,Loan,Construction,West,60,124.8,,,
+42,4,Lease,Service,Central,48,408.0,,,
+67,4,Loan,Service,Central,36,175.0,,,
+73,4,Lease,Vehicles,South,48,102.0,,,
+83,4,Loan,Vehicles,South,48,800.0,,,
+84,4,Lease,Vehicles,South,48,345.0,,,
+123,4,Lease,Vehicles,Central,60,89.0,,,
+149,4,Loan,Service,Central,60,146.0,,,
+150,4,Loan,Service,Central,60,142.0,,,
+161,4,Lease,Utilites,East,36,50.0,,,
+195,4,Lease,Vehicles,North,60,123.0,,,
+231,4,Loan,Construction,Central,68,500.0,,,
+241,4,Lease,Service,North,60,104.0,,,
+256,4,Loan,Service,East,48,182.0,,,
+61,3,Lease,Vehicles,Central,36,353.0,,,
+62,3,Loan,Vehicles,East,36,300.0,,,
+85,3,Lease,Vehicles,South,48,55.0,,,
+96,3,Loan,Vehicles,Central,36,125.0,,,
+124,3,Loan,Manufacturing,Central,72,143.0,,,
+132,3,Lease,Utilites,North,48,139.0,,,
+151,3,Loan,Vehicles,Central,48,123.0,,,
+152,3,Loan,Manufacturing,Central,60,162.0,,,
+153,3,Loan,Utilites,East,36,500.0,,,
+154,3,Loan,Manufacturing,South,24,291.0,,,
+155,3,Loan,Manufacturing,South,30,112.0,,,
+187,3,Loan,Manufacturing,East,60,176.0,,,
+288,3,Loan,Service,Central,36,125.0,,,
+337,3,Loan,Vehicles,East,36,126.0,,,
+9,2,Loan,Manufacturing,Central,60,120.0,,,
+16,2,Loan,Vehicles,North,60,259.0,,,
+33,2,Loan,Vehicles,North,60,304.0,,,
+53,2,Lease,Utilites,North,60,98.0,,,
+77,2,Loan,Manufacturing,Central,60,136.0,,,
+78,2,Lease,Service,North,48,69.0,,,
+79,2,Lease,Vehicles,North,42,100.5,,,
+97,2,Lease,Construction,North,36,74.0,,,
+121,2,Loan,Construction,North,60,256.0,,,
